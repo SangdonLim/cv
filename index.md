@@ -22,6 +22,7 @@ BA in Psychology, 2015
 BA in Library & Information Science, 2015
 
 # Publications
+* Choi, S. W., **Lim, S.**, van der Linden, W. J. (in press). TestDesign: An optimal test design approach to constructing fixed and adaptive tests in R. *Behaviormetrika.*
 * Choi, S. W., **Lim, S.**, Schalet, B. D., Kaat, A. J., & Cella, D. (2021). PROsetta: An R Package for Linking Patient-Reported Outcome Measures. *Applied Psychological Measurement*. Advance online publication. [doi](https://doi.org/10.1177/01466216211013106)
 * Schalet, B. D., **Lim, S.**, Cella, D., Choi, S. W. (2021). Linking scores with patient-reported health outcome instruments: A validation study and comparison of three linking methods. *Psychometrika*. Advance online publication. [doi](https://doi.org/10.1007/s11336-021-09776-z)
 * Holahan, C. J., Holahan, C. K., **Lim, S.**, Powers, D. A., North, R. J. (2021). Living with a smoker and physical inactivity across eight years in high-risk medical patients. *Behavioral Medicine*. Advance online publication. [doi](https://doi.org/10.1080/08964289.2021.1889458)
@@ -34,12 +35,14 @@ BA in Library & Information Science, 2015
 # Experience
 * Intern (2020Su), Creative Measurement Solutions
 > Responsible for front-end development and quality assurance of a Shiny application.
-* Research Assistant (2019S - present)
+* Research Assistant (2019Sp - 2021Su)
 > Development of [TestDesign](https://cran.r-project.org/package=TestDesign) package for automated test assembly.
 > General involvement with earned authorship.
 > Development of [PROsetta](https://cran.r-project.org/package=PROsetta) package for scale linking.
 > General involvement with earned authorship.
-* Research Assistant (2019S - 2020S)
+> Development of [maat](https://cran.r-project.org/package=maat) package for multiple administrations adaptive testing.
+> Worked on package-side implementation.
+* Research Assistant (2019Sp - 2020Sp)
 > Secondary analysis of Women's Health Initiative (WHI) data.
 > Responsible for analysis in Mplus and SPSS, and data organization & management.
 * Teaching Assistant, Statistical Analysis in Psychology, SKKU (2015F, 2016F)
@@ -58,6 +61,7 @@ BA in Library & Information Science, 2015
 * Lim, S. (2016, November). `요인상관과 소요인 유무에 따른 평행분석을 이용한 요인 수 추정의 정확성` [Accuracy of parallel analysis across factor correlation and weak factor presence]. Poster session presented at the meeting of the Korean Society of Psychological Measurement and Assessment, Seoul, Korea.
 
 # Scholarships
+* 2021: Graduate School Continuing Fellowship, University of Texas at Austin.
 * 2020: H. Paul and Decourcy Kelley Endowed Fellowship in Psychometrics, University of Texas at Austin.
 * 2020: Reid Educational Psychology Award, Department of Educational Psychology, University of Texas at Austin.
 * 2019: Bascombe Royall and Frances Fallon Fuller Scholarship, University of Texas at Austin.

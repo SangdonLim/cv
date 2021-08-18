@@ -22,6 +22,7 @@ BA in Psychology, 2015
 BA in Library & Information Science, 2015
 
 # Publications
+* Choi, S. W., **Lim, S.** (in press). maat: An R Package for Multiple Administrations Adaptive Testing. *Applied Psychological Measurement.*
 * Choi, S. W., **Lim, S.** (in press). Adaptive test assembly with a mix of set-based and discrete items. *Behaviormetrika.*
 * Choi, S. W., **Lim, S.**, van der Linden, W. J. (in press). TestDesign: An optimal test design approach to constructing fixed and adaptive tests in R. *Behaviormetrika.*
 * Choi, S. W., **Lim, S.**, Schalet, B. D., Kaat, A. J., & Cella, D. (2021). PROsetta: An R Package for Linking Patient-Reported Outcome Measures. *Applied Psychological Measurement*. Advance online publication. [doi](https://doi.org/10.1177/01466216211013106)

@@ -23,8 +23,8 @@ BA in Library & Information Science, 2015
 
 # Publications
 * Choi, S. W., & **Lim, S.** (in press). maat: an R package for multiple administrations adaptive testing. *Applied Psychological Measurement.*
-* Choi, S. W., & **Lim, S.** (in press). Adaptive test assembly with a mix of set-based and discrete items. *Behaviormetrika.*
-* Choi, S. W., **Lim, S.**, & van der Linden, W. J. (in press). TestDesign: an optimal test design approach to constructing fixed and adaptive tests in R. *Behaviormetrika.*
+* Choi, S. W., & **Lim, S.** (2021). Adaptive test assembly with a mix of set-based and discrete items. *Behaviormetrika.* [doi](https://doi.org/10.1007/s41237-021-00148-6)
+* Choi, S. W., **Lim, S.**, & van der Linden, W. J. (2021). TestDesign: an optimal test design approach to constructing fixed and adaptive tests in R. *Behaviormetrika.* [doi](https://doi.org/10.1007/s41237-021-00145-9)
 * Choi, S. W., **Lim, S.**, Schalet, B. D., Kaat, A. J., & Cella, D. (2021). PROsetta: an R package for linking patient-reported outcome measures. *Applied Psychological Measurement*. Advance online publication. [doi](https://doi.org/10.1177/01466216211013106)
 * Schalet, B. D., **Lim, S.**, Cella, D., & Choi, S. W. (2021). Linking scores with patient-reported health outcome instruments: a validation study and comparison of three linking methods. *Psychometrika*. Advance online publication. [doi](https://doi.org/10.1007/s11336-021-09776-z)
 * Holahan, C. J., Holahan, C. K., **Lim, S.**, Powers, D. A., & North, R. J. (2021). Living with a smoker and physical inactivity across eight years in high-risk medical patients. *Behavioral Medicine*. Advance online publication. [doi](https://doi.org/10.1080/08964289.2021.1889458)

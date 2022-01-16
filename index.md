@@ -36,7 +36,7 @@ BA in Library & Information Science, 2015
 
 # Experience
 * Intern (2020Su), Creative Measurement Solutions
-> Responsible for front-end development and quality assurance of a Shiny application.
+> Worked on front-end development and quality assurance of a Shiny application.
 * Research Assistant (2019Sp - 2021Su)
 > Development of [TestDesign](https://cran.r-project.org/package=TestDesign) package for automated test assembly.
 > General involvement with earned authorship.
@@ -46,7 +46,7 @@ BA in Library & Information Science, 2015
 > Worked on package-side implementation.
 * Research Assistant (2019Sp - 2020Sp)
 > Secondary analysis of Women's Health Initiative (WHI) data.
-> Responsible for analysis in Mplus and SPSS, and data organization & management.
+> Worked on analysis in Mplus and SPSS, and data organization & management.
 * Teaching Assistant, Statistical Analysis in Psychology, SKKU (2015F, 2016F)
 >
 * Research Assistant (2015 - 2016)

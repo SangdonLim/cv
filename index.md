@@ -5,7 +5,8 @@ permalink: /
 ---
 
 Sangdon Lim
-Doctoral student | Quantitative Methods
+Doctoral candidate | Quantitative methods
+Expected graduation: Spring 2023
 Department of Educational Psychology
 University of Texas at Austin
 

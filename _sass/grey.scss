@@ -23,6 +23,7 @@ $container-max-width:  640px !default;
 /**
  * Global
  */
+html { background-color: $background-color; }
 html::-webkit-scrollbar { width: 0 !important; overflow: -moz-scrollbars-none; -ms-overflow-style: none; }
 body { background-color: $background-color;  margin: 0 auto;  padding: 0;  font-family: $base-font-family;  font-size: $base-font-size;  color: $text-color;  text-align: left;  line-height: $base-line-height !important; }
 h1, h2, h3, h4, h5, h6 { font-size: $base-font-size; margin: 0px; margin-top: 1.5em; margin-bottom: 0px; font-weight: bold; color: $primary-color; }

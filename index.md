@@ -1,10 +1,10 @@
 ---
-title: σ
+title: CV page - Sangdon Lim
 layout: page
 permalink: /
 ---
 
-Sangdon Lim
+# Sangdon Lim
 Doctoral candidate | Quantitative methods
 Expected graduation: Spring 2023
 Department of Educational Psychology

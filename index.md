@@ -24,7 +24,7 @@ BA in Library & Information Science, 2015
 
 # Publications
 * Choi, S. W., **Lim, S.** (2021). maat: An R package for multiple administrations adaptive testing. *Applied Psychological Measurement.* [doi](https://doi.org/10.1177/01466216211049212)
-* Choi, S. W., **Lim, S.** (2021). Adaptive test assembly with a mix of set-based and discrete items. *Behaviormetrika.* [doi](https://doi.org/10.1007/s41237-021-00148-6)
+* Choi, S. W., **Lim, S.** (2021). Adaptive test assembly with a mix of set-based and discrete items. *Behaviormetrika.* [doi](https://doi.org/10.1007/s41237-021-00148-6) [materials](https://github.com/SangdonLim/mix_setbased_discrete)
 * Choi, S. W., **Lim, S.**, van der Linden, W. J. (2021). TestDesign: An optimal test design approach to constructing fixed and adaptive tests in R. *Behaviormetrika.* [doi](https://doi.org/10.1007/s41237-021-00145-9)
 * Choi, S. W., **Lim, S.**, Schalet, B. D., Kaat, A. J., & Cella, D. (2021). PROsetta: An R package for linking patient-reported outcome measures. *Applied Psychological Measurement, 45*(5), 386-388. [doi](https://doi.org/10.1177/01466216211013106)
 * Schalet, B. D., **Lim, S.**, Cella, D., Choi, S. W. (2021). Linking scores with patient-reported health outcome instruments: A validation study and comparison of three linking methods. *Psychometrika, 86*(3), 717-746. [doi](https://doi.org/10.1007/s11336-021-09776-z)
@@ -32,7 +32,7 @@ BA in Library & Information Science, 2015
 * Holahan, C. J., Holahan, C. K., **Lim, S.** & Powers, D. A. (2020). Living with a smoker and multiple health risk behaviors. *Annals of Behavioral Medicine, 55*(4), 287-297. [doi](https://doi.org/10.1093/abm/kaaa059)
 * Lim, S. (2020). Review: A course in item response theory and modeling with Stata, and Using R for item response theory model applications. *Structural Equation Modeling: A Multidisciplinary Journal, 27*(4), 657-659. [doi](https://doi.org/10.1080/10705511.2020.1740886)
 * Holahan, C. J., Holahan, C. K., **Lim, S.** & Powers, D. A. (2020). Living with a smoker, health risk behaviors, and adiposity: an analysis with middle-aged and older women. *Journal of Behavioral Medicine, 43*, 850-858. [doi](https://doi.org/10.1007/s10865-019-00098-1)
-* **Lim, S.**, Jahng, S. (2019). Determining the number of factors using parallel analysis and its recent variants. *Psychological Methods, 24*(4), 452-467. [doi](https://doi.org/10.1037/met0000230)
+* **Lim, S.**, Jahng, S. (2019). Determining the number of factors using parallel analysis and its recent variants. *Psychological Methods, 24*(4), 452-467. [doi](https://doi.org/10.1037/met0000230) [materials](https://github.com/SangdonLim/parallel_analysis)
 * **Lim, S.**, Jahng, S. (2017). `요인 개수 결정을 위한 평행분석의 정확성 평가` [Evaluating the accuracy of parallel analysis for determining the number of common factors]. *Korean Journal of Psychology: General, 36*(4), 441-475. [doi](https://doi.org/10.22257/kjp.2017.09.36.4.441)
 
 # Experience
@@ -40,11 +40,8 @@ BA in Library & Information Science, 2015
 > Worked on front-end development and quality assurance of a Shiny application.
 * Research Assistant (2019Sp - 2021Su)
 > Development of [TestDesign](https://cran.r-project.org/package=TestDesign) package for automated test assembly.
-> General involvement with earned authorship.
 > Development of [PROsetta](https://cran.r-project.org/package=PROsetta) package for scale linking.
-> General involvement with earned authorship.
 > Development of [maat](https://cran.r-project.org/package=maat) package for multiple administrations adaptive testing.
-> Worked on package-side implementation.
 * Research Assistant (2019Sp - 2020Sp)
 > Secondary analysis of Women's Health Initiative (WHI) data.
 > Worked on analysis in Mplus and SPSS, and data organization & management.

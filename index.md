@@ -36,6 +36,9 @@ BA in Library & Information Science, 2015
 * **Lim, S.**, Jahng, S. (2017). `요인 개수 결정을 위한 평행분석의 정확성 평가` [Evaluating the accuracy of parallel analysis for determining the number of common factors]. *Korean Journal of Psychology: General, 36*(4), 441-475. [doi](https://doi.org/10.22257/kjp.2017.09.36.4.441)
 
 # Experience
+* Research Assistant (2022F - current)
+> Development of an R package for performing simulations, to be delivered to a client.
+* Work restriction from being a fellowship recipient (2021F - 2022Su)
 * Intern (2020Su), Creative Measurement Solutions
 > Worked on front-end development and quality assurance of a Shiny application.
 * Research Assistant (2019Sp - 2021Su)
@@ -64,7 +67,7 @@ BA in Library & Information Science, 2015
 * Lim, S. (2016, November). `요인상관과 소요인 유무에 따른 평행분석을 이용한 요인 수 추정의 정확성` [Accuracy of parallel analysis across factor correlation and weak factor presence]. Poster session presented at the meeting of the Korean Society of Psychological Measurement and Assessment, Seoul, Korea.
 
 # Scholarships
-* 2021: Graduate School Continuing Fellowship, University of Texas at Austin.
+* 2021: Graduate School Continuing Fellowship, University of Texas at Austin. (work restriction from 2021F to 2022Su)
 * 2020: H. Paul and Decourcy Kelley Endowed Fellowship in Psychometrics, University of Texas at Austin.
 * 2020: Reid Educational Psychology Award, Department of Educational Psychology, University of Texas at Austin.
 * 2019: Bascombe Royall and Frances Fallon Fuller Scholarship, University of Texas at Austin.

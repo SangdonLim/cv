@@ -38,6 +38,7 @@ BA in Library & Information Science, 2015
 # Experience
 * Research Assistant (2022F - current)
 > Development of an R package for performing simulations, to be delivered to a client.
+> Development of an R package for performing simulations, to be delivered to another client.
 * Work restriction from being a fellowship recipient (2021F - 2022Su)
 * Intern (2020Su), Creative Measurement Solutions
 > Worked on front-end development and quality assurance of a Shiny application.

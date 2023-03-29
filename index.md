@@ -57,7 +57,7 @@ BA in Library & Information Science, 2015
 
 # Presentations
 * **Lim, S.**, Choi, S. W. (accepted). Domain ability estimation in shadow test assembly with bifactor models. *Computer adaptive testing models and estimation*. Paper scheduled to be presented at the annual meeting of the National Council on Measurement in Education.
-* Choi, S. W., **Lim, S.** (accepted). Optimal test design approach to fixed and adaptive test construction using R. Training session scheduled for the annual meeting of the National Council on Measurement in Education.
+* Choi, S. W., **Lim, S.** (2023, March 28). Optimal test design approach to fixed and adaptive test construction using R. Training session at the annual meeting of the National Council on Measurement in Education.
 * Gianopulos, G., Lee, J., **Lim, S.**, Niu, L., Lee, S., Choi, S. W., (2022, April 22). Impact of item pool size and distribution on a TY system. *Considerations in the design of through year computer adaptive assessments* [Coordinated paper session]. Paper presented at the annual meeting of the National Council on Measurement in Education.
 * Lee, J., Schneider, C., Gianopulos, G., Niu, L., Lee, S., **Lim, S.**, Choi, S. W., (2022, April 22). Impact of test routing rules on theta estimates and achievement level classifications. *Considerations in the design of through year computer adaptive assessments* [Coordinated paper session]. Paper presented at the annual meeting of the National Council on Measurement in Education.
 * Choi, S. W., **Lim, S.** (2022, April 8). Optimal test design approach to fixed and adaptive test construction using R. Training session at the annual meeting of the National Council on Measurement in Education.

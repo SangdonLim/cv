@@ -14,6 +14,7 @@ University of Texas at Austin
     <li><a href="mailto:sangdonlim@utexas.edu"><i class="fas fa-envelope fa-2x icon"></i></a></li>
     <li><a href="https://scholar.google.com/citations?user=D-uRjKYAAAAJ&hl=en"><i class="ai ai-google-scholar ai-2x icon"></i></a></li>
     <li><a href="https://github.com/sangdonlim"><i class="fab fa-github fa-2x icon"></i></a></li>
+    <li><a href="https://www.linkedin.com/in/sangdonlim/"><i class="fab fa-linkedin fa-2x icon"></i></a></li>
 </div>
 
 # Education

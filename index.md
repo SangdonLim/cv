@@ -5,10 +5,8 @@ permalink: /
 ---
 
 # Sangdon Lim
-Doctoral candidate | Quantitative methods
-Expected graduation: Summer 2023
-Department of Educational Psychology
-University of Texas at Austin
+
+I am a psychometrician specializing in computerized adaptive testing (CAT). I have publications in top-notch journals including *Psychological Methods* and *Psychometrika*. I have worked on multiple industry-sponsored CAT projects. I also happen to be a cat person.
 
 <div class="icons">
     <li><a href="mailto:sangdonlim@utexas.edu"><i class="fas fa-envelope fa-2x icon"></i></a></li>
@@ -18,10 +16,9 @@ University of Texas at Austin
 </div>
 
 # Education
-Sungkyunkwan University
-MA in Psychology (Quantitative Methods), 2017
-BA in Psychology, 2015
-BA in Library & Information Science, 2015
+
+PhD in Educational Psychology (Quantitative Methods), University of Texas at Austin, 2023
+MA in Psychology (Quantitative Methods), Sungkyunkwan University, 2017
 
 # Publications
 * Choi, S. W., **Lim, S.**, Niu, L., Lee, S., Schneider, C. M., Lee, J., & Gianopulos, G. J. (2022). maat: an R package for multiple administrations adaptive testing. *Applied Psychological Measurement, 46*(1), 73-74. [doi](https://doi.org/10.1177/01466216211049212)

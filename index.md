@@ -6,10 +6,10 @@ permalink: /
 
 # Sangdon Lim
 
-I am a psychometrician specializing in computerized adaptive testing (CAT). I have publications in top-notch journals including *Psychological Methods* and *Psychometrika*. I have worked on multiple industry-sponsored CAT projects. I also happen to be a cat person.
+I am a psychometrician specializing in computerized adaptive testing (CAT). I have publications in top-notch journals including *Psychological Methods* and *Psychometrika*, and have worked on multiple industry-sponsored CAT projects. I also happen to be a cat person.
 
 <div class="icons">
-    <li><a href="mailto:sangdonlim@utexas.edu"><i class="fas fa-envelope fa-2x icon"></i></a></li>
+    <li><a href="mailto:stdevlimit@gmail.com"><i class="fas fa-envelope fa-2x icon"></i></a></li>
     <li><a href="https://scholar.google.com/citations?user=D-uRjKYAAAAJ&hl=en"><i class="ai ai-google-scholar ai-2x icon"></i></a></li>
     <li><a href="https://github.com/sangdonlim"><i class="fab fa-github fa-2x icon"></i></a></li>
     <li><a href="https://www.linkedin.com/in/sangdonlim/"><i class="fab fa-linkedin fa-2x icon"></i></a></li>
@@ -17,8 +17,37 @@ I am a psychometrician specializing in computerized adaptive testing (CAT). I ha
 
 # Education
 
-PhD in Educational Psychology (Quantitative Methods), University of Texas at Austin, 2023
-MA in Psychology (Quantitative Methods), Sungkyunkwan University, 2017
+- PhD&nbsp;&nbsp;&nbsp;Educational Psychology, University of Texas at Austin<span class="rightaligned">2023</span>
+- MA&nbsp;&nbsp;&nbsp;&nbsp;Psychology, Sungkyunkwan University<span class="rightaligned">2017</span>
+
+# Experience
+* Psychometrician, Cambium Assessment<span class="rightaligned">2023.09 - current</span><!-- timespan checked -->
+* Graduate Research Assistant, University of Texas at Austin<span class="rightaligned">2022.09 - 2023.08</span>
+  - Worked as the main programmer of two R packages for performing adaptive test assembly simulations. These
+were contracted products for operational use.
+  - Presented technical information to psychometrician and non-psychometrician audiences.
+  - Caught where technical specifications were incomplete; discussed these with contracting organizations.
+  - Led workshops in national conferences, both in-person and remotely.
+  - Worked on adding features to R packages to facilitate studies led by colleagues.
+  - Aided extensively in computer programming topics, such as making functions run faster, helping colleagues to learn version control and on general debugging, and making code easier to understand.
+* Fellowship recipient, University of Texas at Austin<span class="rightaligned">2021.09 - 2022.08</span><!-- timespan checked -->
+  - This came with on-campus work restriction.
+* Graduate Research Assistant, University of Texas at Austin<span class="rightaligned">2019.01 - 2021.08</span>
+  - Worked as the main programmer of three R packages: [TestDesign](https://cran.r-project.org/package=TestDesign), [PROsetta](https://cran.r-project.org/package=PROsetta), and [maat](https://cran.r-project.org/package=maat). Topics included performing scale linking between instruments using item response theory and fixed-parameter calibration technique, performing adaptive test assembly simulations, and adding features to summarize item pool and test properties. These packages are publicly available from the CRAN repository.
+  - Wrote package function help pages, tutorials, user guides, and technical documentations.
+  - Wrote automated codetests for quality checks for development purposes.
+* Intern, Creative Measurement Solutions<span class="rightaligned">2020.06 - 2020.08</span><!-- timespan checked -->
+  - Worked on front-end development and quality assurance of a Shiny application, for a new standard setting method (embedded standard setting) for operational testing programs.
+  - Wrote a user guide and presented a tutorial.
+* Graduate Research Assistant, University of Texas at Austin<span class="rightaligned">2019.01 - 2020.05</span><!-- timespan checked -->
+  - Worked on secondary analysis of Women's Health Initiative (WHI) data using Mplus and SPSS.
+  - Also worked on data organization and management of a large dataset with over 80k rows.
+* Graduate Research Assistant, Sungkyunkwan University<span class="rightaligned">2015 - 2016</span>
+  - Participated in developing a psychometrics-based credit rating system for a fintech startup.
+  - Worked on fitting Thurstonian IRT models to ipsative response data using Mplus.
+  - Presented the technical process of parameter estimation to non-statisticians using Excel solver.
+* Teaching Assistant, Sungkyunkwan University<span class="rightaligned">2015 Fall, 2016 Fall</span>
+  - Course title: Statistical Analysis in Psychology
 
 # Publications
 * Choi, S. W., **Lim, S.**, Niu, L., Lee, S., Schneider, C. M., Lee, J., & Gianopulos, G. J. (2022). maat: an R package for multiple administrations adaptive testing. *Applied Psychological Measurement, 46*(1), 73-74. [doi](https://doi.org/10.1177/01466216211049212)
@@ -33,26 +62,6 @@ MA in Psychology (Quantitative Methods), Sungkyunkwan University, 2017
 * **Lim, S.**, Jahng, S. (2019). Determining the number of factors using parallel analysis and its recent variants. *Psychological Methods, 24*(4), 452-467. [doi](https://doi.org/10.1037/met0000230) [materials](https://github.com/SangdonLim/parallel_analysis)
 * **Lim, S.**, Jahng, S. (2017). `요인 개수 결정을 위한 평행분석의 정확성 평가` [Evaluating the accuracy of parallel analysis for determining the number of common factors]. *Korean Journal of Psychology: General, 36*(4), 441-475. [doi](https://doi.org/10.22257/kjp.2017.09.36.4.441) [link](http://www.riss.kr/link?id=A105323656)
 
-# Experience
-* Graduate Research Assistant (2022F - current), University of Texas at Austin
-> Development of an R package for performing simulations of adaptive test assembly.
-> Development of an R package for performing simulations of multistage adaptive test assembly.
-* Work restriction from being a fellowship recipient (2021F - 2022Su)
-* Graduate Research Assistant (2019Sp - 2021Su), University of Texas at Austin
-> Development of [TestDesign](https://cran.r-project.org/package=TestDesign) package for automated test assembly.
-> Development of [PROsetta](https://cran.r-project.org/package=PROsetta) package for scale linking.
-> Development of [maat](https://cran.r-project.org/package=maat) package for multiple administrations adaptive testing.
-* Intern (2020Su), Creative Measurement Solutions
-> Worked on front-end development and quality assurance of a Shiny application for a new standard setting method (embedded standard setting) for operational testing programs.
-* Graduate Research Assistant (2019Sp - 2020Sp), University of Texas at Austin
-> Secondary analysis of Women's Health Initiative (WHI) data.
-> Worked on analysis using Mplus and SPSS, and on data organization & management.
-* Graduate Research Assistant (2015 - 2016), Sungkyunkwan University
-> Development of psychometrics-based credit rating system.
-> Worked on fitting Thurstonian IRT models to ipsative response data.
-* Teaching Assistant (2015F, 2016F), Sungkyunkwan University
-> Course title: Statistical Analysis in Psychology
-
 # Presentations
 * **Lim, S.**, Choi, S. W. (2023, April 15). Domain score estimation in adaptive testing for single-subject multiple-domain content. *Computer adaptive testing models and estimation* [Paper session]. Paper presented at the annual meeting of the National Council on Measurement in Education.
 * Choi, S. W., **Lim, S.** (2023, March 28). Optimal test design approach to fixed and adaptive test construction using R. Training session at the annual meeting of the National Council on Measurement in Education.
@@ -66,6 +75,9 @@ MA in Psychology (Quantitative Methods), Sungkyunkwan University, 2017
 * Cheong, J., Jung, S., & **Lim, S.** (2018, May). Two-part modeling approach to mediation analysis for semi-continuous outcomes. Poster session presented at the annual convention of the Society for Prevention Research, Washington, DC.
 * Lim, S. (2017, May). `고유값 감쇠에 따른 평행분석 및 대안적 요인수 추정 알고리즘의 정확성 비교` [Accuracy of parallel analysis and its alternatives across eigenvalue attenuation]. Paper presented at the meeting of the Korean Society of Psychological Measurement and Assessment, Seoul, Korea.
 * Lim, S. (2016, November). `요인상관과 소요인 유무에 따른 평행분석을 이용한 요인 수 추정의 정확성` [Accuracy of parallel analysis across factor correlation and weak factor presence]. Poster session presented at the meeting of the Korean Society of Psychological Measurement and Assessment, Seoul, Korea.
+
+# Contributions
+* 2023: Invited and participated as a reviewer for a paper on Educational and Psychological Measurement.
 
 # Scholarships
 * 2022: Professional Development Award, Department of Educational Psychology, University of Texas at Austin.

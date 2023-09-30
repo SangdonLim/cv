@@ -6,7 +6,7 @@ permalink: /
 
 # Sangdon Lim
 
-I am a psychometrician specializing in computerized adaptive testing (CAT). I have publications in top-notch journals including *Psychological Methods* and *Psychometrika*, and have worked on multiple industry-sponsored CAT projects. I also happen to be a cat person.
+I am a psychometrician specializing in computerized adaptive testing (CAT). I have publications in top-notch journals including *Psychological Methods* and *Psychometrika*, and have worked on multiple industry-sponsored CAT projects. I also happen to be a [cat]({% link cat.md %}) person.
 
 <div class="icons">
     <li><a href="mailto:stdevlimit@gmail.com"><i class="fa-solid fa-envelope fa-2x icon"></i></a></li>

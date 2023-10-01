@@ -3,7 +3,6 @@
 
 $base-font-family:     "Roboto Mono", monospace !default; /* The only choice available that has compatible glyph widths */
 $base-font-size:       16px !default;
-$mobile-font-size:     14px !default;
 $base-line-height:     1.5 !default;
 $base-color:           #aaa !default;
 $primary-color:        #eee !default;
@@ -98,6 +97,17 @@ code { font-family: $base-font-family; }
 }
 #scholarships + ul > li { text-indent: 0; }
 
-@media only screen and (max-device-width: 500px) {
-  h1, p, ul { font-size: $mobile-font-size !important; }
-}
+@media (width < 320px) { header::before { content: "this device is too small!"; } main { visibility: hidden; } }
+@media (320px <= width < 360px) { .container { width: 32ch; } }
+@media (360px <= width < 400px) { .container { width: 36ch; } }
+@media (400px <= width < 440px) { .container { width: 40ch; } }
+@media (440px <= width < 480px) { .container { width: 44ch; } }
+@media (480px <= width < 520px) { .container { width: 48ch; } }
+@media (520px <= width < 560px) { .container { width: 52ch; } }
+@media (560px <= width < 600px) { .container { width: 56ch; } }
+@media (600px <= width < 640px) { .container { width: 60ch; } }
+@media (640px <= width < 680px) { .container { width: 64ch; } }
+@media (680px <= width < 720px) { .container { width: 68ch; } }
+@media (720px <= width < 760px) { .container { width: 72ch; } }
+@media (760px <= width < 800px) { .container { width: 76ch; } }
+@media (800px <= width) { .container { width: 80ch; } }

@@ -50,6 +50,7 @@ were contracted products for operational use.
   - Course title: Statistical Analysis in Psychology
 
 # Publications
+* **Lim, S.**, Choi, S. W. (in press). Item exposure and utilization control methods for optimal test assembly. *Behaviormetrika*.
 * Choi, S. W., **Lim, S.**, Niu, L., Lee, S., Schneider, C. M., Lee, J., & Gianopulos, G. J. (2022). maat: an R package for multiple administrations adaptive testing. *Applied Psychological Measurement, 46*(1), 73-74. [doi](https://doi.org/10.1177/01466216211049212)
 * Choi, S. W., **Lim, S.** (2022). Adaptive test assembly with a mix of set-based and discrete items. *Behaviormetrika, 49*(2), 231-254. [doi](https://doi.org/10.1007/s41237-021-00148-6) [materials](https://github.com/SangdonLim/mix_setbased_discrete) (invited paper)
 * Choi, S. W., **Lim, S.**, van der Linden, W. J. (2022). TestDesign: an optimal test design approach to constructing fixed and adaptive tests in R. *Behaviormetrika, 49*(2), 191-229. [doi](https://doi.org/10.1007/s41237-021-00145-9) (invited paper)

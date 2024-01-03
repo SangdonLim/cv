@@ -64,6 +64,7 @@ were contracted products for operational use.
 * **Lim, S.**, Jahng, S. (2017). `요인 개수 결정을 위한 평행분석의 정확성 평가` [Evaluating the accuracy of parallel analysis for determining the number of common factors]. *Korean Journal of Psychology: General, 36*(4), 441-475. [doi](https://doi.org/10.22257/kjp.2017.09.36.4.441) [link](http://www.riss.kr/link?id=A105323656)
 
 # Presentations
+* Choi, S. W., **Lim, S.** (2024, April 11). Optimal test design approach to fixed and adaptive test construction using R. Training session at the annual meeting of the National Council on Measurement in Education.
 * **Lim, S.**, Choi, S. W. (2023, April 15). Domain score estimation in adaptive testing for single-subject multiple-domain content. *Computer adaptive testing models and estimation* [Paper session]. Paper presented at the annual meeting of the National Council on Measurement in Education.
 * Choi, S. W., **Lim, S.** (2023, March 28). Optimal test design approach to fixed and adaptive test construction using R. Training session at the annual meeting of the National Council on Measurement in Education.
 * Gianopulos, G., Lee, J., **Lim, S.**, Niu, L., Lee, S., Choi, S. W., (2022, April 22). Impact of item pool size and distribution on a TY system. *Considerations in the design of through year computer adaptive assessments* [Coordinated paper session]. Paper presented at the annual meeting of the National Council on Measurement in Education.

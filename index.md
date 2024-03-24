@@ -65,6 +65,7 @@ were contracted products for operational use.
 
 # Presentations
 * Choi, S. W., **Lim, S.** (2024, April 11). Optimal test design approach to fixed and adaptive test construction using R. Training session at the annual meeting of the National Council on Measurement in Education.
+* **Lim, S.**, Jiang, T., Schneider, M. C. (2024, March 22). Investigating the adoption of marginal reliability for use in three operational testing programs. Paper presented at the annual meeting of Texas Universities' Educational Statistics and Psychometrics (TUESAP) Conference, Denton, TX.
 * **Lim, S.**, Choi, S. W. (2023, April 15). Domain score estimation in adaptive testing for single-subject multiple-domain content. *Computer adaptive testing models and estimation* [Paper session]. Paper presented at the annual meeting of the National Council on Measurement in Education.
 * Choi, S. W., **Lim, S.** (2023, March 28). Optimal test design approach to fixed and adaptive test construction using R. Training session at the annual meeting of the National Council on Measurement in Education.
 * Gianopulos, G., Lee, J., **Lim, S.**, Niu, L., Lee, S., Choi, S. W., (2022, April 22). Impact of item pool size and distribution on a TY system. *Considerations in the design of through year computer adaptive assessments* [Coordinated paper session]. Paper presented at the annual meeting of the National Council on Measurement in Education.

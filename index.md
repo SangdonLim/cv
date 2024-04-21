@@ -50,7 +50,7 @@ were contracted products for operational use.
   - Course title: Statistical Analysis in Psychology
 
 # Publications
-* **Lim, S.**, & Choi, S. W. (2023). Item exposure and utilization control methods for optimal test assembly. *Behaviormetrika*. Advance online publication. [doi](https://doi.org/10.1007/s41237-023-00214-1)
+* **Lim, S.**, & Choi, S. W. (2024). Item exposure and utilization control methods for optimal test assembly. *Behaviormetrika, 51*, 125-156. [doi](https://doi.org/10.1007/s41237-023-00214-1)
 * Choi, S. W., **Lim, S.**, Niu, L., Lee, S., Schneider, C. M., Lee, J., & Gianopulos, G. J. (2022). maat: an R package for multiple administrations adaptive testing. *Applied Psychological Measurement, 46*(1), 73-74. [doi](https://doi.org/10.1177/01466216211049212)
 * Choi, S. W., & **Lim, S.** (2022). Adaptive test assembly with a mix of set-based and discrete items. *Behaviormetrika, 49*(2), 231-254. [doi](https://doi.org/10.1007/s41237-021-00148-6) [materials](https://github.com/SangdonLim/mix_setbased_discrete) (invited paper)
 * Choi, S. W., **Lim, S.**, & van der Linden, W. J. (2022). TestDesign: an optimal test design approach to constructing fixed and adaptive tests in R. *Behaviormetrika, 49*(2), 191-229. [doi](https://doi.org/10.1007/s41237-021-00145-9) (invited paper)
@@ -64,6 +64,7 @@ were contracted products for operational use.
 * **Lim, S.**, & Jahng, S. (2017). `요인 개수 결정을 위한 평행분석의 정확성 평가` [Evaluating the accuracy of parallel analysis for determining the number of common factors]. *Korean Journal of Psychology: General, 36*(4), 441-475. [doi](https://doi.org/10.22257/kjp.2017.09.36.4.441) [link](http://www.riss.kr/link?id=A105323656)
 
 # Presentations
+* Chen, J., **Lim, S.**, & Schneider, M. C. (2024, April 14). Embedded standard setting efficacy under different item alignment and empirical difficulty conditions. *Alignment and standard setting: interrogating methodologies in support of instructional utility* [Coordinated paper session]. Paper presented at the annual meeting of the National Council on Measurement in Education, Philadelphia, PA.
 * Choi, S. W., & **Lim, S.** (2024, April 11). Optimal test design approach to fixed and adaptive test construction using R. Training session at the annual meeting of the National Council on Measurement in Education, Philadelphia, PA.
 * **Lim, S.**, Jiang, T., & Schneider, M. C. (2024, March 22). Investigating the adoption of marginal reliability for use in three operational testing programs. Paper presented at the annual meeting of Texas Universities' Educational Statistics and Psychometrics (TUESAP) Conference, Denton, TX.
 * **Lim, S.**, & Choi, S. W. (2023, April 15). Domain score estimation in adaptive testing for single-subject multiple-domain content. *Computer adaptive testing models and estimation* [Paper session]. Paper presented at the annual meeting of the National Council on Measurement in Education, Chicago, IL.

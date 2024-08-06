@@ -12,7 +12,9 @@
       {{ content }}
     </main>
 
-    {%- include footer.html -%}
+    {%- if page.is_main_page -%}
+      {%- include footer.html -%}
+    {%- endif -%}
 
     </div>
   </body>

@@ -2,6 +2,7 @@
 title: CV page - Sangdon Lim
 layout: page
 permalink: /
+is_main_page: true
 ---
 
 # Sangdon Lim

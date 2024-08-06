@@ -10,7 +10,7 @@ I am a psychometrician specializing in computerized adaptive testing (CAT). I ha
 
 <div class="icons">
     <li><a href="mailto:stdevlimit@gmail.com"><i class="fa-solid fa-envelope fa-2x icon"></i></a></li>
-    <li><a href="https://scholar.google.com/citations?user=D-uRjKYAAAAJ&hl=en"><i class="ai ai-google-scholar ai-2x icon"></i></a></li>
+    <li><a href="https://scholar.google.com/citations?user=D-uRjKYAAAAJ&hl=en"><i class="fa-brands fa-google-scholar fa-2x icon"></i></a></li>
     <li><a href="https://github.com/sangdonlim"><i class="fa-brands fa-github fa-2x icon"></i></a></li>
     <li><a href="https://www.linkedin.com/in/sangdonlim/"><i class="fa-brands fa-linkedin fa-2x icon"></i></a></li>
 </div>

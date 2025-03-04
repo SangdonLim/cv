@@ -51,8 +51,8 @@ were contracted products for operational use.
   - Course title: Statistical Analysis in Psychology
 
 # Publications
-* Gianopulos, G., Lee, J., **Lim, S.**, Niu, L., Lee, S., & Choi, S. W. (in press). The impact of item pool size and item pool distribution on student ability estimates for a hybrid interim-summative CAT. *Journal of Computerized Adaptive Testing.*
-* Lee, J., **Lim, S.**, Schneider, M. C., Gianopulos, G., Niu, L., Lee, S., & Choi, S. W. (in press). The impact of item bank transition rules on student ability estimates and achievement level classifications. *Journal of Computerized Adaptive Testing.*
+* Gianopulos, G., Lee, J., **Lim, S.**, Niu, L., Lee, S., & Choi, S. W. (2025). The impact of item pool size and item pool distribution on student ability estimates for a hybrid interim-summative CAT. *Journal of Computerized Adaptive Testing, 12*(1), 54-87. [doi](https://doi.org/10.7333/2502-1201054)
+* Lee, J., **Lim, S.**, Schneider, M. C., Gianopulos, G., Niu, L., Lee, S., & Choi, S. W. (2025). The impact of item bank transition rules on student ability estimates and achievement level classifications. *Journal of Computerized Adaptive Testing, 12*(1), 88-122. [doi](https://doi.org/10.7333/2502-1201088)
 * **Lim, S.**, & Choi, S. W. (2024). Item exposure and utilization control methods for optimal test assembly. *Behaviormetrika, 51*, 125-156. [doi](https://doi.org/10.1007/s41237-023-00214-1)
 * **Lim, S.** (2023). *Domain score estimation in adaptive test assembly for single-subject multiple-domain content.* [Doctoral dissertation, University of Texas at Austin]. Texas ScholarWorks. [doi](https://doi.org/10.26153/tsw/51424)
 * Choi, S. W., **Lim, S.**, Niu, L., Lee, S., Schneider, C. M., Lee, J., & Gianopulos, G. J. (2022). maat: an R package for multiple administrations adaptive testing. *Applied Psychological Measurement, 46*(1), 73-74. [doi](https://doi.org/10.1177/01466216211049212)

@@ -88,7 +88,8 @@ were contracted products for operational use.
 * Lim, S. (2016, November). `요인상관과 소요인 유무에 따른 평행분석을 이용한 요인 수 추정의 정확성` [Accuracy of parallel analysis across factor correlation and weak factor presence]. Poster session presented at the meeting of the Korean Society of Psychological Measurement and Assessment, Seoul, Korea.
 
 # Contributions
-* 2023: Invited and participated as a reviewer for a paper on Educational and Psychological Measurement.
+* 2025: Reviewed a paper for Journal of Educational and Behavioral Statistics.
+* 2023: Reviewed a paper for Educational and Psychological Measurement.
 
 # Scholarships
 * 2022: Professional Development Award, Department of Educational Psychology, University of Texas at Austin.

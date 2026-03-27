@@ -22,7 +22,11 @@ I am a psychometrician specializing in computerized adaptive testing (CAT). I ha
 - MA&nbsp;&nbsp;&nbsp;&nbsp;Psychology, Sungkyunkwan University<span class="rightaligned">2017</span>
 
 # Experience
-* Psychometrician, Cambium Assessment<span class="rightaligned">2023.09 - current</span><!-- timespan checked -->
+* Senior Psychometrician, Cambium Assessment<span class="rightaligned">2026.04 - current</span><!-- timespan checked -->
+* Psychometrician, Cambium Assessment<span class="rightaligned">2023.09 - 2026.03</span><!-- timespan checked -->
+  - Led the assembly of through-year multistage assessments composed of 16 modules using an in-house tool for automated test assembly (ATA).
+  - Delivered multiple studies on through-year multistage assessments and presented to various audiences.
+  - Coordinated the implementation of embedded item-descriptor matching (EIDM) approach for operational standard setting.
 * Graduate Research Assistant, University of Texas at Austin<span class="rightaligned">2022.09 - 2023.08</span>
   - Worked as the main programmer of two R packages for performing adaptive test assembly simulations. These
 were contracted products for operational use.

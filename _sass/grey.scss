@@ -80,6 +80,11 @@ code { font-family: $base-font-family; }
   margin-bottom: 1.5em;
   list-style-type: "- ";
 }
+#miley + ul > li {
+  margin-bottom: 1.5em;
+  list-style-type: "- ";
+}
+
 #experience + ul > li {
   text-indent: 0;
   margin-bottom: 1.5em;

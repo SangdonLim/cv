@@ -8,4 +8,4 @@ permalink: /cat
 
 # Yoru
 
-- She is a cat cat (not a dog cat).
+- She is a cat cat (not a [dog]({% link dog.md %}) cat).

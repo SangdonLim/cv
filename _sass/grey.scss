@@ -84,6 +84,9 @@ code { font-family: $base-font-family; }
   margin-bottom: 1.5em;
   list-style-type: "- ";
 }
+main > p > img {
+  margin-top: -5em;
+}
 
 #experience + ul > li {
   text-indent: 0;
